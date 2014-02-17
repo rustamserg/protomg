@@ -1,5 +1,5 @@
-# Proto
-proto - game prototype to test yet another match-like game mechanism.
+# Protomg
+protomg - game prototype to test yet another match-like game mechanism.
 
 The code is dirty and primary developed to play with different game multipliers and time constraints rather than introduce good game design itself.
 
@@ -15,7 +15,7 @@ On Ubuntu 13.10 install pygame before running the game:
 
 Get the sources, make sure that game.py is executable and there is level.dat in the same directory:
 
-    cd proto
+    cd protomg
     ./game.py
     
 ## Gameplay
